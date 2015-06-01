@@ -32,7 +32,7 @@
 	        android:text="C"
 	        android:textSize="20sp"
 	        android:id="@+id/btn_clear"
-	        android:background="@drawable/white_bg"
+	        android:background="@drawable/white_selector"
 	        /> 
 
 	    <Button
@@ -42,7 +42,7 @@
 	        android:layout_marginLeft="10dp"
 	        android:textSize="20sp"
 	        android:id="@+id/btn_del"
-	        android:background="@drawable/white_bg"
+	        android:background="@drawable/white_selector"
 	        /> 
 	    <!-- android:layout_marginLeft 为设置与前一个button的间距 -->
 	    
@@ -53,7 +53,7 @@
 	        android:layout_marginLeft="10dp"
 	        android:textSize="20sp"
 	        android:id="@+id/btn_div"
-	        android:background="@drawable/white_bg"
+	        android:background="@drawable/white_selector"
 	        /> 
 	    
 	    <Button
@@ -63,7 +63,7 @@
 	        android:layout_marginLeft="10dp"
 	        android:textSize="20sp"
 	        android:id="@+id/btn_mul"
-	        android:background="@drawable/white_bg"
+	        android:background="@drawable/white_selector"
 	        /> 
 	</LinearLayout>
 
@@ -80,7 +80,7 @@
 	        android:text="7"
 	        android:textSize="20sp"
 	        android:id="@+id/btn_7"
-	        android:background="@drawable/white_bg"
+	        android:background="@drawable/white_selector"
 	        /> 
 
 	    <Button
@@ -90,7 +90,7 @@
 	        android:layout_marginLeft="10dp"
 	        android:textSize="20sp"
 	        android:id="@+id/btn_8"
-	        android:background="@drawable/white_bg"
+	        android:background="@drawable/white_selector"
 	        /> 
 	    <!-- android:layout_marginLeft 为设置与前一个button的间距 -->
 	    
@@ -101,7 +101,7 @@
 	        android:layout_marginLeft="10dp"
 	        android:textSize="20sp"
 	        android:id="@+id/btn_9"
-	        android:background="@drawable/white_bg"
+	        android:background="@drawable/white_selector"
 	        /> 
 	    
 	    <Button
@@ -111,7 +111,7 @@
 	        android:layout_marginLeft="10dp"
 	        android:textSize="20sp"
 	        android:id="@+id/btn_min"
-	        android:background="@drawable/white_bg"
+	        android:background="@drawable/white_selector"
 	        /> 
 	</LinearLayout>
 	
@@ -129,7 +129,7 @@
 	        android:text="4"
 	        android:textSize="20sp"
 	        android:id="@+id/btn_4"
-	        android:background="@drawable/white_bg"
+	        android:background="@drawable/white_selector"
 	        /> 
 
 	    <Button
@@ -139,7 +139,7 @@
 	        android:layout_marginLeft="10dp"
 	        android:textSize="20sp"
 	        android:id="@+id/btn_5"
-	        android:background="@drawable/white_bg"
+	        android:background="@drawable/white_selector"
 	        /> 
 	    <!-- android:layout_marginLeft 为设置与前一个button的间距 -->
 	    
@@ -150,7 +150,7 @@
 	        android:layout_marginLeft="10dp"
 	        android:textSize="20sp"
 	        android:id="@+id/btn_6"
-	        android:background="@drawable/white_bg"
+	        android:background="@drawable/white_selector"
 	        /> 
 	    
 	    <Button
@@ -160,7 +160,7 @@
 	        android:layout_marginLeft="10dp"
 	        android:textSize="20sp"
 	        android:id="@+id/btn_plus"
-	        android:background="@drawable/white_bg"
+	        android:background="@drawable/white_selector"
 	        /> 
 	</LinearLayout>
 	
@@ -187,7 +187,7 @@
 			        android:text="1"
 			        android:textSize="20sp"
 			        android:id="@+id/btn_1"
-			        android:background="@drawable/white_bg"
+			        android:background="@drawable/white_selector"
 		        /> 
 		        <Button
 			        android:layout_width="60dp"
@@ -196,7 +196,7 @@
 			        android:layout_marginLeft="10dp"
 			        android:textSize="20sp"
 			        android:id="@+id/btn_2"
-			        android:background="@drawable/white_bg"
+			        android:background="@drawable/white_selector"
 		        /> 
 		        <Button
 			        android:layout_width="60dp"
@@ -205,7 +205,7 @@
 			        android:layout_marginLeft="10dp"
 			        android:textSize="20sp"
 			        android:id="@+id/btn_3"
-			        android:background="@drawable/white_bg"
+			        android:background="@drawable/white_selector"
 		        /> 
 	        </LinearLayout>
 	        
@@ -221,7 +221,7 @@
 			        android:text="0"
 			        android:textSize="20sp"
 			        android:id="@+id/btn_0"
-			        android:background="@drawable/white_bg"
+			        android:background="@drawable/white_selector"
 		        /> 
 		        <Button
 			        android:layout_width="60dp"
@@ -230,7 +230,7 @@
 			        android:layout_marginLeft="10dp"
 			        android:textSize="20sp"
 			        android:id="@+id/btn_point"
-			        android:background="@drawable/white_bg"
+			        android:background="@drawable/white_selector"
 		        /> 
 	        </LinearLayout>
 	    </LinearLayout>
@@ -242,7 +242,7 @@
 	        android:layout_marginLeft="10dp"
 	        android:textSize="20sp"
 	        android:id="@+id/btn_result"
-	        android:background="@drawable/white_bg"
+	        android:background="@drawable/orange_selector"
 	        /> 
 	</LinearLayout>
 	
